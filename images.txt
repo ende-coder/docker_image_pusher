@@ -5,3 +5,7 @@ nginx:1.21-alpine
 
 langgenius/dify-api:1.7.1
 langgenius/dify-web:1.7.1
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local
