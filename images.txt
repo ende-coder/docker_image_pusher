@@ -16,3 +16,4 @@ semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 
 pgvector/pgvector:pg16
+vastdata/vastbase-vector
