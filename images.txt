@@ -1,4 +1,3 @@
-# install prompt_sail
 mongo:latest
 mongo-express:latest
 ghcr.io/promptsail/promptsail-backend:latest
