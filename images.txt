@@ -32,3 +32,10 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
+#install langfuse
+docker.io/langfuse/langfuse-worker:3
+docker.io/langfuse/langfuse:3
+docker.io/clickhouse/clickhouse-server
+docker.io/minio/minio
+docker.io/redis:7
+docker.io/postgres:latest
