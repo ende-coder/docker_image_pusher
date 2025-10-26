@@ -1,2 +1,2 @@
-mongo-express:latest
-mongo:latest
+mysql:8.0
+redis:latest
