@@ -1,2 +1,2 @@
-mongo:latest
 mongo-express:latest
+mongo:latest
