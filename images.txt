@@ -1,2 +1,1 @@
-hwdsl2/ipsec-vpn-server
-milvusdb/milvus
+milvusdb/milvus:v2.6.4
