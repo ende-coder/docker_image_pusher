@@ -1,1 +1,1 @@
-zilliz/attu:v2.6
+mongo:latest
