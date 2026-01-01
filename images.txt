@@ -1,1 +1,1 @@
-ossrs/srs:5
+neo4j:latest
