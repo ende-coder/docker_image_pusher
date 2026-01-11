@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:main-latest
+hwdsl2/ipsec-vpn-server
